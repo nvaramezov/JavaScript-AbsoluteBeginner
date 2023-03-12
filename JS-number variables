@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> JavaScript Variables</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+var number1=20;
+var number2=50;
+
+var total = number1+number2;
+
+
+document.write(total);
+
+</script>
+
+
+</body>
+</html>
