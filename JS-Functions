@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript Functions</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+var number1=800;
+function total(number2) {
+return (number1+number2);
+
+
+}
+
+document.write("Your number is " + total(40));
+
+
+/*function total(number1) {
+return(number1+60);
+}
+document.write(total(20));*/
+
+</script>
+
+
+</body>
+</html>
