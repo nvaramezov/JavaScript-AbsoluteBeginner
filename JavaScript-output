@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+<meta cherset="utf-8">
+<title>Java Script output</title>
+</head>
+
+<body>
+
+<p id="text">Hello, my name is Nikolay</p>
+
+<script type="text/javascript">
+
+document.write("Hello World!");
+
+window.alert("This is a popup :)")
+
+document.getElementById("text").innerHTML = "None";	
+	
+
+
+</script>
+ 
+
+
+</body>
+</html>
