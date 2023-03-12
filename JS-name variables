@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> JavaScript Variables</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+var firstname="Nikolay";
+var lastname="Varamezov";
+
+var fullname= firstname + " " + lastname;
+
+
+document.write(fullname);
+
+</script>
+
+
+</body>
+</html>
