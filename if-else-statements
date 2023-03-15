@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> JS If/else statements</title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+	var number = 2;
+
+	if(number==5)  {
+
+	document.write("Yes, the number is 5");
+
+	} else if(number<5) {
+	
+	document.write("the number is smaller than 5");
+	
+	} else {
+	
+	document.write("nothing is true");
+	
+	}
+	
+
+</script>
+</body>
+</html>
